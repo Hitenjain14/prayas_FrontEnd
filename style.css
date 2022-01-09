@@ -114,11 +114,20 @@ li{
   font-size: 1.1rem;
 }
 
+iframe{
+  width: 660px;
+  height: 415px;
+}
+
 @media only screen and (max-width: 500px) {
 li{
   font-size: 2.0rem;
 }
   .scroll-div{
     width: 55%;
+  }
+  iframe{
+     width: 300px;
+    height: 250px;
   }
 }
