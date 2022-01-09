@@ -122,4 +122,7 @@ li{
   .scroll-div{
     width: 55%;
   }
+  #news {
+    width: 50vw;
+  }
 }
