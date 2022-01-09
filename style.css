@@ -123,6 +123,6 @@ li{
     width: 55%;
   }
   iframe{
-    display: none
+    width: 0px;
   }
 }
