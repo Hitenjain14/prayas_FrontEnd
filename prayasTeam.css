@@ -72,9 +72,9 @@ li{
 
 @media screen and (max-width: 500px) {
     li{
-        font-size: 1.5rem;
+        font-size: 2.0rem;
     }
-    section:before{
-        height: 50%;
+    section{
+        height: 20vh;
     }
 }
