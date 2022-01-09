@@ -57,3 +57,8 @@ section .content p{
     height: 45vh;
     object-fit: cover;
 }
+.img-here{
+    width: 19vw;
+    height: 40vh;
+    object-fit: fill;
+}
