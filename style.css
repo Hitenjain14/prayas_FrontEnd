@@ -114,10 +114,6 @@ li{
   font-size: 1.1rem;
 }
 
-iframe{
-  width: 660px;
-  height: 415px;
-}
 
 @media only screen and (max-width: 500px) {
 li{
@@ -125,9 +121,5 @@ li{
 }
   .scroll-div{
     width: 55%;
-  }
-  iframe{
-     width: 200px;
-    height: 250px;
   }
 }
