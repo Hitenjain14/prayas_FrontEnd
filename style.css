@@ -113,6 +113,6 @@ div::-webkit-scrollbar-thumb:hover {
 
 @media (max-width: 500px) {
 li{
-  font-size: 0.8rem;
+  font-size: 1.2rem;
 }
 }

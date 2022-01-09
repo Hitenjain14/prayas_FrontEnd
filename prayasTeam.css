@@ -60,5 +60,5 @@ section .content p{
 .img-here{
     width: 19vw;
     height: 40vh;
-    object-fit: fill;
+    object-fit: contain;
 }
