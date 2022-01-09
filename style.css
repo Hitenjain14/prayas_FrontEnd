@@ -1,4 +1,4 @@
-html{
+html {
   scroll-behavior: smooth;
 }
 
@@ -106,23 +106,28 @@ div::-webkit-scrollbar-thumb:hover {
   color: #e74c3c;
 }
 
-.li-text{
+.li-text {
   font-size: 1.25rem;
   margin-right: 0.5rem;
 }
-li{
+li {
   font-size: 1.1rem;
 }
 
-
 @media only screen and (max-width: 500px) {
-li{
-  font-size: 1.8rem;
-}
-  .scroll-div{
+  li {
+    font-size: 1.8rem;
+  }
+  .scroll-div {
     width: 55%;
   }
   #news {
     width: 50vw;
   }
 }
+/* @media only screem and (max-width: 500px) {
+  #youtube {
+    width: 100vw;
+    height: 50vh;
+  }
+} */
