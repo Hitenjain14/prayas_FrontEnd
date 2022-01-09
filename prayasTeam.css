@@ -58,7 +58,17 @@ section .content p{
     object-fit: cover;
 }
 .img-here{
-    width: 19vw;
-    height: 40vh;
+    width: 300px;
+    height: 300px;
     object-fit: contain;
+}
+
+@media (max-width: 500px){
+
+    .img-here{
+        width: 150px;
+        height: 150px;
+        object-fit: contain;
+    }
+
 }
