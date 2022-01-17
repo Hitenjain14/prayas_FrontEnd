@@ -122,10 +122,22 @@ li {
     width: 55%;
   }
   #news {
-    width: 50vw;
+    width: 80vw;
   }
-  .iframe {
-    width: 100px;
-    height: 50vh;
+  body {
+    overflow-x: hidden !important;
+  }
+  .container {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+  }
+  #grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: space-evenly;
+  }
+  #flex {
+    flex-flow: row wrap;
+    flex: 1;
   }
 }
