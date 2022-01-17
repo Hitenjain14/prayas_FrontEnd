@@ -124,10 +124,8 @@ li {
   #news {
     width: 50vw;
   }
-}
-/* @media only screem and (max-width: 500px) {
-  #youtube {
-    width: 100vw;
+  .iframe {
+    width: 100px;
     height: 50vh;
   }
-} */
+}
